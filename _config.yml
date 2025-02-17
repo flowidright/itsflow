@@ -1,3 +1,6 @@
 title: itsflow
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/just-the-docs.png"
